@@ -58,7 +58,7 @@ To build a centralized dashboard providing a 360-degree view of e-commerce sales
 * 🔎 Clear visibility of **seasonal profit variations**, guiding inventory planning and marketing efforts
 
 
-📂 Dashboard Output: 👉View the Interactive Dashboard here: (
+📂 Dashboard Output: 👉View the Interactive Dashboard here: ( https://github.com/BurraSathwikGoud/E-commerce-Sales-Dashboard-PowerBI/blob/main/Dashboard%20image.png )
 
 
 
